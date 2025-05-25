@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Brilho
+Comment=Ajustar brilho da tela via GUI
+Exec=brilho-gui
+Icon=display-brightness
+Terminal=false
+Type=Application
+Categories=Utility;
+

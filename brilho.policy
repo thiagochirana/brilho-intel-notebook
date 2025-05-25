@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policyconfig>
+  <action id="com.devcurumin.brilho">
+    <description>Alterar brilho da tela</description>
+    <message>Permitir que o utilitário gráfico altere o brilho da tela?</message>
+    <icon_name>preferences-system-brightness</icon_name>
+    <defaults>
+      <allow_any>auth_admin</allow_any>
+      <allow_inactive>auth_admin</allow_inactive>
+      <allow_active>auth_admin</allow_active>
+    </defaults>
+  </action>
+</policyconfig>
+
