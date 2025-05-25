@@ -1,1 +1,22 @@
+# Arquivos temporários do makepkg
+pkg/
+src/
+*.pkg.tar.zst
+*.pkg.tar.zst.sig
+*.log
+
+# Binários e arquivos compilados
 brilho
+brilho-debug*
+
+# Arquivos editor/IDE
+*.swp
+*.swo
+*.bak
+*.tmp
+*.o
+*.out
+
+# Arquivos de build custom
+*.tar.gz
+
